@@ -40,5 +40,5 @@ Extract/load/Transform copy,move data and drift columns which is used for data s
 
 ## Technologies used
 
- <img src="https://skillicons.dev/icons?i=github,git,html,css,js,vscode,azure, powerbi, powerautomate, powerflow, docusign, bootstrap, cosmodb,  "/>
+ <img src="https://skillicons.dev/icons?i=github,git,html,css,js,vscode,azure, powerbi, powerautomate, powerflow, docusign, bootstrap, cosmodb, php "/>
  
