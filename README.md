@@ -1,8 +1,10 @@
 
 ## Inspiration:-
-&emsp;&emsp;Artificial Intelligence (AI) reshapes companies and how innovation management is organized. Consistent with rapid technological development and the replacement of human organization, AI may indeed compel management to rethink a company's entire innovation process.
 
-&emsp;&emsp;In this project I am providing solution for three problems which faced by major healthcare industry.
+Artificial Intelligence (AI) reshapes companies and how innovation management is organized. Consistent with rapid technological development and the replacement of human organization, AI may indeed compel management to rethink a company's entire innovation process.
+
+In this project I am providing solution for three problems which faced by major healthcare industry.
+
 
 ## How It is built
 
@@ -33,4 +35,10 @@ Application is built using java,html,css3,and data stored in shared point.
 <br>
 &emsp;&emsp;Transform faster with intelligent intent-driven mapping that automates copy activities.
 Extract/load/Transform copy,move data and drift columns which is used for data segregation.
+
+
+
+## Technologies used
+
+ <img src="https://skillicons.dev/icons?i=github,git,html,css,js,vscode,azure, powerbi, powerautomate, powerflow, docusign, bootstrap, cosmodb,  "/>
  
